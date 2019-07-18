@@ -1,0 +1,6 @@
+jsonsocket/__init__.py
+jsonsocket/_socket_helpers.py
+jsonsocket.egg-info/PKG-INFO
+jsonsocket.egg-info/SOURCES.txt
+jsonsocket.egg-info/dependency_links.txt
+jsonsocket.egg-info/top_level.txt
